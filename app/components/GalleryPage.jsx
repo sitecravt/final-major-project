@@ -34,7 +34,7 @@ export default function GalleryPage() {
           <div className='absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300'></div>
         </div>
       </div>
-      <button  className='bg-[#d02626] p-5 rounded-[12px] text-[20px] w-[198px] text-white mt-[30px] '><Link href="">Book Venue</Link></button>
+      <button  className='bg-[#d02626] p-5 rounded-[12px] text-[20px] w-[198px] text-white mt-[30px] '><Link href="/rehearsals">Book Venue</Link></button>
     </div>
   )
 }

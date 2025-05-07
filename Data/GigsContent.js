@@ -3,7 +3,7 @@ export const gigsContent = [
     band: "Bodyweb (Boom fundraiser)",
     date: "Wed 21 May 2025, 7:00PM",
     text: "Live at [BOOM] Leeds",
-    subtext: "Come and watch this spectacular live event at [BOOm] Leeds",
+    subtext: "Come and watch this spectacular live event at [BOOM] Leeds",
     venue: "[BOOM] Leeds",
     Link: "https://www.ticketsource.co.uk/booking/init/FIHFDLF"
   },
@@ -11,7 +11,7 @@ export const gigsContent = [
      band: "INHUMAN NATURE",
     date: "Thu 22 May 2025, 7:00PM",
     text: "Live at [BOOM] Leeds",
-    subtext: "Come and watch this spectacular live event at [BOOm] Leeds",
+    subtext: "Come and watch this spectacular live event at [BOOM] Leeds",
     venue: "[BOOM] Leeds",
     Link: "https://www.ticketsource.co.uk/booking/init/FJIMLJL"
   },
@@ -19,7 +19,7 @@ export const gigsContent = [
    band: "Ratos de Porão",
     date: "Fri 30 May 2025, 7:00PM",
     text: "Live at [BOOM] Leeds",
-    subtext: "Come and watch this spectacular live event at [BOOm] Leeds",
+    subtext: "Come and watch this spectacular live event at [BOOM] Leeds",
     venue: "[BOOM] Leeds",
     Link: "https://www.ticketsource.co.uk/booking/init/FJIMLKD"
   },

@@ -4,7 +4,7 @@ export default function page() {
   return (
     <div className='text-white bg-black p-[185px]'>
      <div className='pb-[20px]'>
-        <h1 className='font-bold text-[30px] pb-8'>Rehearsal/Room Booking</h1>
+        <h1 className='font-bold text-[30px] pb-8'>Rehearsal / Room Booking</h1>
         <p className='font-reqular text-[20px] pb-4'>[Boom] has hosted permanent rehearsal rooms to bands for as long as it has existed here in Leeds. We are now extending our rehearsals to our stages. You will be able to book one of our rooms easily online.
         </p>
         <p className='font-reqular text-[20px] pb-4'>Register your interest for rehearsal/room booking at [Boom] Leeds by providing your information below. We will let you know when we launch our new online booking system and provide further information.</p>
