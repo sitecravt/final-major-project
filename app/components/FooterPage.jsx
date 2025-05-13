@@ -1,10 +1,26 @@
 import Link from 'next/link'
 import React from 'react'
 
+/**
+ * FooterPage Component
+ * 
+ * A responsive footer component that displays important site information and links.
+ * Features navigation links, newsletter signup, and location information.
+ * 
+ * Features:
+ * - Three-column layout with responsive design
+ * - Quick navigation links to key pages
+ * - Newsletter signup section with call-to-action button
+ * - Embedded Google Maps location
+ * - Contact information and copyright notice
+ * 
+ * @component
+ * @returns {JSX.Element} A responsive footer with navigation, signup, and location sections
+ */
 export default function FooterPage() {
     return (
         <div className='text-white bg-[#421418]'>
-            <div className='flex flex-row justify-between pl-[120px] pr-[120px] pt-8 pb-8 '>
+            <div className='flex md:flex-row flex-col justify-between gap-2 pl-[120px] pr-[120px] pt-8 pb-8 '>
                 <div className='flex flex-col gap-4'>
                <h1 className='font-bold text-[25px]'>[BOOM] LEEDS</h1> 
         <Link href="/">    <p className='font-regualar text-[20px]'>Home</p></Link> 

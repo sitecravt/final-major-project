@@ -8,7 +8,7 @@ import ReviewsPage from "./components/ReviewsPage";
 import ContactPage from "./components/ContactPage";
 import FeedbackPage from "./components/FeedbackPage";
 
-
+//below i added all the pages into the main page this is where everything in the browser comes from
 export default function Home() {
   return (
    <div className="bg-[#000000]">

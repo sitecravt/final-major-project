@@ -2,6 +2,22 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 
+/**
+ * GalleryPage Component
+ * 
+ * A responsive gallery component that displays a grid of venue images with hover effects.
+ * Features a booking button for venue reservations.
+ * 
+ * Features:
+ * - Responsive grid layout (1 column on mobile, 2 on tablet, 3 on desktop)
+ * - Image hover effects with scale and overlay
+ * - Custom shadow effects on hover
+ * - Optimized images using Next.js Image component
+ * - Direct booking link to rehearsal page
+ * 
+ * @component
+ * @returns {JSX.Element} A responsive gallery grid with interactive image cards
+ */
 export default function GalleryPage() {
   return (
     <div className='container mx-auto px-4 py-8 bg-black min-h-screen'>

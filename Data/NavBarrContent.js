@@ -1,3 +1,11 @@
+/**
+ * Array containing navigation menu items for the website.
+ * Each item represents a navigation link with display text and target URL.
+ * @type {Array<{
+ *   text: string,
+ *   link: string
+ * }>}
+ */
 export const navItems = [
     {
         text: "Home",

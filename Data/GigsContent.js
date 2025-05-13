@@ -1,3 +1,16 @@
+/**
+ * Array containing upcoming gig/event data for the website.
+ * Each object represents a single event with details like band name, date, venue, and booking link.
+ * @type {Array<{
+ *   image: string,
+ *   band: string,
+ *   date: string,
+ *   text: string,
+ *   subtext: string,
+ *   venue: string,
+ *   Link: string
+ * }>}
+ */
 export const gigsContent = [
   {image:"/galleryimage1.png",
     band: "Bodyweb (Boom fundraiser)",
